@@ -1,0 +1,2 @@
+# werewolf
+Werewolf discord bot
